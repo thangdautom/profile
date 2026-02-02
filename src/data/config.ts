@@ -31,8 +31,8 @@ const config = {
     return this.site + "/assets/seo/og-image.png";
   },
   social: {
-    twitter: "https://x.com/nothotchaddi",
-    linkedin: "https://www.linkedin.com/in/naresh-khatri/",
+    twitter: "https://x.com/lavang390?s=21",
+    linkedin: "https://www.linkedin.com/in/v%C3%A0ng-l%C3%A1-3a83763aa/",
     instagram: "https://www.instagram.com/21.th08/",
     facebook: "https://www.facebook.com/ngthua218",
     github: "https://github.com/thangdautom",
